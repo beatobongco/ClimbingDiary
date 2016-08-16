@@ -48,3 +48,12 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Once it starts to become trivial, level up. 
  * Once you reach level 10, upgrade your list of 4 hardest onsight boulders.
  * I will start later at Level 3, and Denise will start at Level 1.
+
+## 2016/8/17
+ * So today I started at Level 1 for the 4x4's. I decided to take it slow and also, yellow felt a little heavy. But I can definitely level up to 3 next session! Confident about it.
+ * Denise did well at Level 0 [0, 0, 0, 0]. It was too easy so we'll be taking that to Level 1 next session.
+ * Finished a long time enemy, Columbia 6b+ on the autobelay. Super satisfying. Will add that to my list, but unique.
+ * List for Thursday: 
+  * Autobelay: Black Sloper, Columbia
+  * New routes: Maldives (6c+), and hard lime green (6c+)
+  * Toprope: Beer, John Snow, Big Bird Jops, Red Cat, RGP
