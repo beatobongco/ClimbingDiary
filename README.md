@@ -47,3 +47,4 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Pick a level that causes you to redline near the end (falling off is OK) and then stick with it until you can consistently feel good on all 4 sets.
  * Once it starts to become trivial, level up. 
  * Once you reach level 10, upgrade your list of 4 hardest onsight boulders.
+ * I will start later at Level 3, and Denise will start at Level 1.
