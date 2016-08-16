@@ -27,7 +27,7 @@
 ## 2016/8/16
  * Thought of an easy way to ramp up difficulty using a bit of math.
  * Idea is to have more variety in climbs, while climbing near your moderate intensity limit (for Power Endurance), without repeating a boulder per rep. 
- * Rank your 4 hardest boulders and then choose a level. If you can do them perfectly in that order, ramp the level up. 
+ * Rank 4 hardest onsight boulders in ascending order of difficulty and then choose a level.
 ``` 
 4x4 level chart
 Get your 4 hardest boulders and rank them 1 - 4
@@ -43,4 +43,7 @@ Get your 4 hardest boulders and rank them 1 - 4
  9 [4, 3, 2, 0] 
 10 [4, 3, 2, 1] 
 ```
- * Once you can finish level 10, upgrade your list of 4 hardest boulders.
+ * This is mainly used for calibrating.
+ * Pick a level that causes you to redline near the end (falling off is OK) and then stick with it until you can consistently feel good on all 4 sets.
+ * Once it starts to become trivial, level up. 
+ * Once you reach level 10, upgrade your list of 4 hardest onsight boulders.
