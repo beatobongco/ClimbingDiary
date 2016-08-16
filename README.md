@@ -16,3 +16,10 @@
 * Note to self: work on Beer, John Snow, Big Bird Jops , Red Cat.
 * Pretty solid already with Brownie and Music Time Machine. Can repeat for practice but not a priority.
 * I wanna work on Maldives (6c+) and the lime green 6c+ on Music Time Machine's line.
+
+## 2016/8/15
+* Did sprinting intervals today! Hopefully rest is adequate for a super strong bouldering day tomorrow (for which I am psyched!)
+* Will do fall training with Denise tomorrow
+* Plan to do 4x4's tomorrow but will first refine movement on Magenta, Yellow Tap, White Commit and Roof Start (ascending order)
+* If we were to assign numbers then they would be weighted from 1-4
+* Thought of making a function that returns the partition with the most unique numbers > 0, useful for ramping up difficulty.
