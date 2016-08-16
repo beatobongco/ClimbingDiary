@@ -23,3 +23,23 @@
 * Plan to do 4x4's tomorrow but will first refine movement on Magenta, Yellow Tap, White Commit and Roof Start (ascending order)
 * If we were to assign numbers then they would be weighted from 1-4
 * Thought of making a function that returns the partition with the most unique numbers > 0, useful for ramping up difficulty.
+
+## 2016/8/16
+ * Thought of an easy way to ramp up difficulty using a bit of math.
+ * Idea is to have more variety in climbs, while climbing near your moderate intensity limit (for Power Endurance), without repeating a boulder per rep. 
+ * Rank your 4 hardest boulders and then choose a level. If you can do them perfectly in that order, ramp the level up. 
+``` 
+4x4 level chart
+Get your 4 hardest boulders and rank them 1 - 4
+
+ 1 [1, 0, 0, 0] 
+ 2 [2, 0, 0, 0] 
+ 3 [2, 1, 0, 0] 
+ 4 [3, 1, 0, 0] 
+ 5 [3, 2, 0, 0] 
+ 6 [3, 2, 1, 0] 
+ 7 [4, 2, 1, 0] 
+ 8 [4, 3, 1, 0] 
+ 9 [4, 3, 2, 0] 
+10 [4, 3, 2, 1] 
+```
