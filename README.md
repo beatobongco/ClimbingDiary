@@ -43,3 +43,4 @@ Get your 4 hardest boulders and rank them 1 - 4
  9 [4, 3, 2, 0] 
 10 [4, 3, 2, 1] 
 ```
+ * Once you can finish level 10, upgrade your list of 4 hardest boulders.
