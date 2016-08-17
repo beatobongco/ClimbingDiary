@@ -57,3 +57,4 @@ Get your 4 hardest boulders and rank them 1 - 4
   * Autobelay: Black Sloper, Columbia
   * New routes: Maldives (6c+), and hard lime green (6c+)
   * Toprope: Beer, John Snow, Big Bird Jops, Red Cat, RGP
+  * Huge TODO: For warmup drills tomorrow focus on elegant switch of feet :D 20 minutes of dat shit!
