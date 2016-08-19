@@ -65,7 +65,7 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Worked on Mkchief Maker (steep pocket/pinch arete 6c+). Stoked to have connected all the moves, which I did not expect to do. Thought it would take 2 weeks. Was able to use the "front step" technique in the crux!
  * Route goes like this: Two pockets to three cheese edges, two slopey pinches you go up real quick, then a good left sidepull, followed by an OK right crimp. First crux is getting left hand on the left crimp because we barn door. That's where front step comes in, or at least flagging side on the right wall. Then we got a moderate section of 3 sloper pills. Second crux is getting the top of the 3 pills with right hand, crossing over left to pinch and then a push to get the last jug with left. Sorta long move but doesn't require a dyno. Perhaps deadpoint.
  * Next steps: Work the first crux. When that's clean, work the bottom to be efficient. Top should be OK as long as I have energy.
- * Should focus on doing Drago (crimpy slab 6c) and Black Chips (??? 6c) next. Totally forgot there were some legit 6c's I could project.
+ * Should focus on doing Drago (crimpy slab 6c) and Black Chips (??? 6c) next. Totally forgot there were some legit 6c's I could project. If I finish these two, I raise my pyramid base to 6c! :D Then the real work has to be put in.
  * Was able to finish all but Jon Snow on my TODO list! Did Beer on first attempt. RGP is getting way smooth. Red Cat feels good too, but not a clean ascent today. Big Bird Jops is not very efficient, not clean ascent to day too. To order in terms of work:
  * `Beer`, `Big Bird Jops`, `Red Cat`, `John Snow`, `RGP`
  * Denise connected Brownie (6b+) with super cool non-dyno beta for the top. She can totally finish it next week!
