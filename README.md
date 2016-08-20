@@ -69,3 +69,9 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Was able to finish all but Jon Snow on my TODO list! Did Beer on first attempt. RGP is getting way smooth. Red Cat feels good too, but not a clean ascent today. Big Bird Jops is not very efficient, not clean ascent to day too. To order in terms of work:
  * `Beer`, `Big Bird Jops`, `Red Cat`, `John Snow`, `RGP`
  * Denise connected Brownie (6b+) with super cool non-dyno beta for the top. She can totally finish it next week!
+
+## 2016/8/20
+ * Repeated Black Sloper (1st try, easy) and Columbia (2nd try, moderately hard) while warming up.
+ * Spent whole session today working on Mkchief Maker (6c+). Hardest route I've ever worked efficiently. After whole day, last two tries were good ascents except for failing to latch final jug. I need to commit more!
+ * Beta goes like this: Cross start on two pockets, right to next pocket, high step left and then reach for first cheese, twist in and right into wall, reach right for next cheese. Bump to small cheese. Left hard crimp to poop rail. Smear right while quickly lifting left foot to first cheese. Good rest here. Quick left, right to slopers. Right next cheese, get left to good left crimp. Right to small crimp. Lift left to top of rail. Quickly back step and commit left to second small crimp. Really quickly: left smear, bite down on left fingers, right foot to sloper twist in and fall into right hand to 1st big pill. Easy sloper ladder: second and third big pill. Good rest on left of arete. Abuse it. Get right hand on 3rd pill, cross with second hand on 2nd pill. Move to right of arete. Step left to first small crimp, twist in hard, reach left to jug. There is a mental commit barrier just before latching the jug. Just pass through it! And DONE!
+ * Good work on letting go of ego. Was consumed by it on the latter part of the session but finally let go of it towards the end. Ego doesn't help your training, it just gets in the way.
