@@ -106,5 +106,143 @@ obtainable skill.```
 
 Geniuses practiced. A lot. Obsessively.
 
+## Chapter 3: The Brontes, the Z-Boys, and the Renaissance
+
+The Brontes wrote so much shit when they were young. Wuthering heights was just a pro-written rehash of the author's crap old story. It's an awesome revision!
+
+Z-boys were surfers who transitioned to skateboarding.
+
+Maybe there's a way I can leverage my old myelin and add to climbing. 
+
+Weightlifting (reps + set discipline, progressive overload)
+
+Progressive overload: ability to estimate route difficulty limit and do laps of those. 
+
+Martial arts (polishing combos until one can execute them flawlessly)
+
+Aim for re-climbing completed routes perfectly.
+
+Lesson: bring in your past shit! It might help.
+
+Renaissance 
+
+Because of guilds, they had lotta practice, lotta feedback pretty fast!
+
+> We are myelin beings
+
+## Chapter 4: The Three Rules of Deep Practice
+
+> ```To investigate, he set up an experiment involving both
+master players and more ordinary ones. De Groot placed
+chess pieces into positions from a real game, gave the players
+a five-second glimpse of the board, and then tested their re-
+call. The results were what one might expect. The master
+players recalled the pieces and arrangements four to five times
+better than the ordinary players did. (World-class players
+neared 100 percent recall.)
+Then de Groot did something clever. Instead of using pat-
+terns from a real chess game, he set the chess pieces in a ran-
+dom arrangement and reran the test. Suddenly the masters'
+advantage vanished. They scored no better than lesser play-
+ers; in one case, a master chess player did worse than a novice.
+The master players didn't have photographic memories; when
+the game stopped resembling chess, their skills evaporated.```
+
+Recognizing patters. That's why always aim to climb the weirdest routes you can.
+
+Analyze which route types you lack, holds, angles, etc.
+
+> ```Chunking is a strange concept. The idea that skill—which
+is graceful, fluid, and seemingly effortless—should be created
+by the nested accumulation of small, discrete circuits seems
+counterintuitive, to say the least.```
+
+Try to break down how you climb into the smallest detail. Be verbose. It doesn't have to make sense to others.
+Perhaps write down a particularly difficult beta on your phone while resting. Don't be tamad to THINK.
+
+RULE ONE: CHUNK
+
+**Absorb the whole thing**
+
+> ```. People in the hotbeds stare and listen in this way quite a
+lot. It sounds rather Zen, but it basically amounts to absorbing
+a picture of the skill until you can imagine yourself doing it.
+"We're prewired to imitate," Anders Ericsson says. "When
+you put yourself in the same situation as an outstanding per-
+son and attack a task that they took on, it has a big effect on
+your skill."```
+
+Create own hotbed by watching really good climbers on YouTube/Vimeo.
+
+> ```At Spartak it's called imitatsiya—rallying in slow motion
+with an imaginary ball. All Spartak's players do it, from the
+five-year-olds to the pros.```
+
+Exercise visualization/reading the route. Mandatory before climb always read route no matter how easy (!!!) 
+I don't enforce this currently. I should.
+
+**Break into chunks**
+
+> ```Students scissor each measure of their sheet music into horizontal
+strips, which are stuffed into envelopes and pulled out in ran-
+dom order. They go on to break those strips into smaller frag-
+ments by altering rhythms. For instance, they will play a
+difficult passage in dotted rhythm (the horses' hooves
+sound—da- dum, da-dum). This technique forces the player to
+quickly link two of the notes in a series, then grants them a
+beat of rest before the next two-note link. The goal is always
+the same: to break a skill into its component pieces (circuits),
+memorize those pieces individually, then link them together in
+progressively larger groupings (new, interconnected circuits).```
+
+Can apply to working a route. Work the route at the hardest part.
+
+(!!!) Weird idea: Route-mixing: climb 2 routes, alternating colors between panels. Can perhaps try this on autobelay.
+
+I tend to climb fast, perhaps when a route is easy enough for me to complete, I should practice climbing it slowly.
+
+(!!!) Slow climbing high-grade routes I find easy. For a more general audience, if you find a high-grade route easy
+try climbing it in the opposite style.
+
+**Slow it down**
+
+> ```going slow allows you to attend
+more closely to errors, creating a higher degree of precision
+with each firing```
+
+Supports my slow climbing theory.
+
+> ```This showed that experts practice differently and far
+more strategically. When they fail, they don't blame it on luck
+or themselves. They have a strategy they can fix.```
+
+Never allow retries in climbing without verbal confirmation that something different will be tried.
+
+RULE TWO: REPEAT
+
+> ```As Vladimir Horowitz, the virtuoso
+pianist who kept performing into his eighties, put it, "If I skip
+practice for one day, I notice. If I skip practice for two days,
+my wife notices. If I skip for three days, the world notices."```
+
+Try to plan some form of practice per day. Sayang progress. Practice even if mabilis lang.
+
+RULE THREE : LEARN TO FEEL IT
+
+> ```The point, Skye explained, is to get a balance point where
+you can sense the errors when they come. To avoid the mis-
+takes, first you have to feel them immediately.```
+
+Feel wrong moves right away. Let go and try something else if wrong.
+
+> ```"Most kids accelerate their practice fairly quickly," said
+Meadowmount director Owen Carman. "I think of it as a turn
+inward; they stop looking outside for solutions and they reach
+within. They come to terms with what works and what
+doesn't. You can't fake it, you can't borrow, steal, or buy it.
+It's an honest profession."```
+
+Do what works for you
+
 
 
