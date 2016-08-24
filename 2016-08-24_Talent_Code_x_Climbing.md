@@ -6,17 +6,17 @@ A very quick runthrough of concepts and which ones I can connect to climbing.
 
 Introduces terms: `talent hotbed`, `myelin`
 
-## Chapter 2
+## Chapter 1: The Sweet Spot
 
 Introduces: `deep practice`
 
-> *p. 12* Inside talent hotbeds -> `moments of slow, fitful struggle`
+> *p. 2* Inside talent hotbeds -> `moments of slow, fitful struggle`
 
 To perform deep practice in climbing, one must pick routes in one's "sweet spot": hard enough to pose a challenge,
 easy enough to have progress. Perhaps this synergizes with the climbing pyramid, by starting with filling up the base
 and then practicing conquered routes again.
 
-> *p. 23* ```The first time we watch Brunio try the move,
+> *p. 13* ```The first time we watch Brunio try the move,
 he fails, then stops and thinks. He does it again more slowly
 and fails again—the ball squirts away. He stops and thinks
 again. He does it even more slowly, breaking the move down
@@ -25,7 +25,7 @@ to its component parts—this, this, and that.```
 Like "reading the route" upon failure. Rehearse the moves before trying again. This and that, this, this, and that.
 If you make a mistake during a route, let go to avoid wasting endurance and think about what feels wrong then adjust.
 
-> *p. 28* ```Deep practice is built on a paradox: struggling in certain
+> *p. 18* ```Deep practice is built on a paradox: struggling in certain
 targeted ways—operating at the edges of your ability, where
 you make mistakes—makes you smarter. Or to put it a slightly
 different way, experiences where you're forced to slow down,
@@ -47,5 +47,30 @@ If one objectively assesses his abilities one can arrive at the correct conlusio
 few seconds, is far more useful than several hundred observa-
 tions.```
 
+> *p. 20* Link Trainer
+
+Learn by doing. Always by doing. E.g. if someone is teaching and you wanna learn, always volunteer for the hands-on part.
+
+> *p. 27* Brazil's secret weapon -> ```One reason lies in the math. Futsal players touch the ball
+far more often than soccer players—six times more often per
+minute, according to a Liverpool University study. The smaller,
+heavier ball demands and rewards more precise handling—as
+coaches point out, you can't get out of a tight spot simply by
+booting the ball downfield. Sharp passing is paramount: the
+game is all about looking for angles and spaces and working
+quick combinations with other players. Ball control and vi-
+sion are crucial, so that when futsal players play the full-size
+game, they feel as if they have acres of free space in which to
+operate.```
+
+How to replicate futsal for climbing? More climbing volume. 
+
+More volume -> Volume is rooted in endurance/power endurance.
+
+ARC-M: ARC training + movement drills
+4x4SS: Doing bouldering 4x4's at the sweet spot
+pre-reading routes to save energy + identify rests
+
+## Chapter 2: The Deep Practice Cell
 
 
