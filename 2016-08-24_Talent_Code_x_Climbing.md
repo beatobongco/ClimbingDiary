@@ -73,4 +73,38 @@ pre-reading routes to save energy + identify rests
 
 ## Chapter 2: The Deep Practice Cell
 
+> *p. 32* ```The more we fire a particular circuit, the more
+myelin optimizes that circuit, and the stronger, faster, and
+more fluent our movements and thoughts become.```
+
+Mistakes in climbing signify a weak circuit. It needs to be optimized through repetition.
+Condition yourself to respond happily when you find low-grade routes you have difficulty in.
+They are a myelin treasure chest!
+
+LOW GRADE + FAILURE = REPETITION x HAPPINESS
+
+> *p. 33* ```Skill is myelin insulation that wraps neural circuits and that grows according to certain signals.```
+
+Skill as a muscle.
+
+> *p. 34* ```Q: Why is targeted, mistake-focused practice so effec-
+tive?
+A: Because the best way to build a good circuit is to fire
+it, attend to mistakes, then fire it again, over and over.
+Struggle is not an option: it's a biological requirement.
+Q: Why are passion and persistence key ingredients of
+talent?
+A: Because wrapping myelin around a big circuit re-
+quires immense energy and time. If you don't love it,
+you'll never work hard enough to be great.```
+
+> *p. 52* ```In Genius Explained, Dr. Michael Howe of Exeter
+University estimates that Mozart, by his sixth birthday, had
+studied 3,500 hours of music with his instructor-father, a fact
+that places his musical memory in the realm of impressive but
+obtainable skill.```
+
+Geniuses practiced. A lot. Obsessively.
+
+
 
