@@ -81,3 +81,10 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Bouldered today, went up to level 6! That's White Commit, Yellow Tap and Magenta. There may be a flaw in my system. To be less complicated, maybe should just follow template of roped climbing. 1 hour trying new routes and 4x4 doing repeat ascents of hardest climbs.
  * For the next boulder session, I plan to add Black Roof Start. I need to practice the end, matching on that bad crimp. I think I can manage that. That's level 10 next session.
  * For Denise, Will have her send Yellow Tap and then add that to her 4x4.
+
+## 2016/8/27
+ * SUPER PSYCHED to have competed in first fun comp! Sent exactly 50 routes!
+ * Weaknesses to work on: need to ignore pressure and stick to reading routes correctly and climbing fluidly. Need to take a tad more risk. 
+ * Work on the ff routes: Mango (6a+ crackish climb), Tetris (6b+ jib climb).
+ * Work on the ff skills: Bouldering (lagging behind route climbing), Clipping (understandably bad, but can be practiced every day.
+ * Self pat on the back for awesome endurance of both Denise and I! So many climbs and we still did antagonist + boulders after. I think increase in intensity is needed! Also maybe an extra training day for me like Sunday mornings!
