@@ -88,3 +88,8 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Work on the ff routes: Mango (6a+ crackish climb), Tetris (6b+ jib climb).
  * Work on the ff skills: Bouldering (lagging behind route climbing), Clipping (understandably bad, but can be practiced every day.
  * Self pat on the back for awesome endurance of both Denise and I! So many climbs and we still did antagonist + boulders after. I think increase in intensity is needed! Also maybe an extra training day for me like Sunday mornings!
+
+## 2016/8/30
+ * Bouldering today. Very pleased that was able to complete 2 new green-taped boulders: Black Roof Start and Green Volume. Added them to my 4x4 but it's not perfect yet. I failed on my last few reps. That just means more refinement is required!
+ * Den almost finished Yellow Tap!
+ * New bouldering training plan seems to be working! :) Just a bit more discipline needed to stick to time and rest conventions and we should be totally peachy!
