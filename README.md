@@ -93,3 +93,11 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Bouldering today. Very pleased that was able to complete 2 new green-taped boulders: Black Roof Start and Green Volume. Added them to my 4x4 but it's not perfect yet. I failed on my last few reps. That just means more refinement is required!
  * Den almost finished Yellow Tap!
  * New bouldering training plan seems to be working! :) Just a bit more discipline needed to stick to time and rest conventions and we should be totally peachy!
+
+## 2016/9/1
+ * Route climbing today. Super stoken we've got 3 lines re-set with routes! Finished Sisid (6b), Bakit Pocket (6b) and Jump Start (6c). Very happy that Sisid was a flash and Jump Start was an easy 3 try. 
+ * Pockets are my weakness though and Bakit Pocket was only sent after some analysis and around 5 attempts. At least I know what to work on!
+ * Tried 9 Lives (7a), a route I worked on a month back but gave up on. It was totally doable even in fatigued state! Fell on the last hold though. This training is really working.
+ * 9 Lives is a slopey, dynamic route that Joey said might not be a 7a. So I'll think of it 6c+ grade to be safe. I should be able to send it this saturday and I better since it will be gone next Tuesday.
+ * Worked on Beer (6b+). Still the hardest 6b+ ever. Working into the habit of sticking the crux consistently. Gave it around 4 tries for a redpoint. Happy I could send it but want to be able to do it in 2 tries max.
+ * Den did well! Sisid is quite reachy for her, so she has to do around 2-3 dynos for reachy parts. It's really good for her tho. She is learning fast!
