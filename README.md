@@ -110,3 +110,7 @@ Get your 4 hardest boulders and rank them 1 - 4
  * Really stoked to have completed Jump Start and Bakit Pocket back-to-back. Endurance I would say is top!
  * For bouldering just reviewed all previously sent routes. Really happy I repeated them all without falling. I think I have the lessons dialed down. Next objective is to add something else to my 4x4.
  * Gave some bad tries to Black Chips and Drago, both 6c's. Bad to have attempted them at a very suboptimal state. Black Chips I'm sure I can do fresh. Drago feels a bit impossible because of the foot reachiness, but I reckon its just plain body positioning lacking on that slab, not at all strength.
+
+## 2016/9/4
+ * Found a great place to train while I'm visiting Greg http://www.susf.com.au/the-ledge.html I'll try to keep my one day on/off schedule while there. :) 
+ * TODO: research on general fitness training I can do while in KP!
