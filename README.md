@@ -101,3 +101,12 @@ Get your 4 hardest boulders and rank them 1 - 4
  * 9 Lives is a slopey, dynamic route that Joey said might not be a 7a. So I'll think of it 6c+ grade to be safe. I should be able to send it this saturday and I better since it will be gone next Tuesday.
  * Worked on Beer (6b+). Still the hardest 6b+ ever. Working into the habit of sticking the crux consistently. Gave it around 4 tries for a redpoint. Happy I could send it but want to be able to do it in 2 tries max.
  * Den did well! Sisid is quite reachy for her, so she has to do around 2-3 dynos for reachy parts. It's really good for her tho. She is learning fast!
+
+## 2016/9/3
+ * Mix of bouldering and route climbing today.
+ * Tried to tackle 9 lives (7a). Very surprised to have dialed all the moves save for the single move to the final hold. A very slopey route, it helped me learn how to trust my contact strength. Last move is a big move to an OK edge. There are 2 ways I know to approach: match on the second to the last hold (pinch/sloper), cut feet to smear and place right foot on a good edge, twist in hard and deadpoint. I've stuck that move around 3 times only. The other way is a direct deadpoint without getting feet higher which seems lighter but can't seem to stick it.
+ * Am a little disappointed that I wasn't able to finish it but proud that I was able to walk away from it without having my day destroyed. The send shouldn't matter but the climb as a whole. The climb as a whole was very satisfactory.
+ * Den completed Sisid twice! She's really sticking those deadpoint/dynos well now!
+ * Really stoked to have completed Jump Start and Bakit Pocket back-to-back. Endurance I would say is top!
+ * For bouldering just reviewed all previously sent routes. Really happy I repeated them all without falling. I think I have the lessons dialed down. Next objective is to add something else to my 4x4.
+ * Gave some bad tries to Black Chips and Drago, both 6c's. Bad to have attempted them at a very suboptimal state. Black Chips I'm sure I can do fresh. Drago feels a bit impossible because of the foot reachiness, but I reckon its just plain body positioning lacking on that slab, not at all strength.
