@@ -114,3 +114,12 @@ Get your 4 hardest boulders and rank them 1 - 4
 ## 2016/9/4
  * Found a great place to train while I'm visiting Greg http://www.susf.com.au/the-ledge.html I'll try to keep my one day on/off schedule while there. :) 
  * TODO: research on general fitness training I can do while in KP!
+
+## 2016/9/6
+ * Bouldering day today. Got to CCM really early because Den had an interview so she'd been there since 1.
+ * Reviewed old boulders. Climbed a bit sloppily.
+ * Sent Purple Crimper (green tape) quite easily but gave up on Green Slope Start because of a move that compromises my shoulder.
+ * Best 4x4 ever: attempted 4 green tapes per set. Den tried 2 green tapes and 2 yellows. I did 3/4 for all of the sets, which means I may have to dial it down a bit. But maybe next session 4/4 green tapes would be totally doable. We shall see.
+ * We were totally destroyed after the session. **TIREDEST** I've ever been, even more than the comp probably.
+ * I take this to mean my anaerobic endurance and bouldering level is below par. Good thing we're training it.
+ * Attempted to send some new routes on the steep walls. Lousy results. Super. Shouldn't even have attempted it. Next time, no mixing bouldering and route days!
