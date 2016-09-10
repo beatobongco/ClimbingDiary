@@ -123,3 +123,14 @@ Get your 4 hardest boulders and rank them 1 - 4
  * We were totally destroyed after the session. **TIREDEST** I've ever been, even more than the comp probably.
  * I take this to mean my anaerobic endurance and bouldering level is below par. Good thing we're training it.
  * Attempted to send some new routes on the steep walls. Lousy results. Super. Shouldn't even have attempted it. Next time, no mixing bouldering and route days!
+
+## 2016/9/8
+ * Route climbing today. Felt extremely tired, couldn't even do Black Sloper (6c+)! I can usually do that route while tired and its usually very very easy for me.
+ * It was a challenge today. I attribute this not only to tiredness but to onset of fever. I would predict my strength levels plummeted to 25%. I was almost falling on 5's and fell on a 6a!
+ * Was able to climb some 6b's without falling (Sisid Marino and Bakit Pocket) which was very satisfying. Also connected a pockety 6c and a heavy 6b+ (forgot the names). 
+ * Discovered something interesting: to make up for my low energy and strength levels, I relied more on my feet and by pushing (mantling?) more on holds. Takeaway is despite fatigue I should still be able to climb. Also, when I'm back to 100% I should focus more on offloading effort to technique. Physical fitness is a slice in time but technique is (almost) forever.
+ * Left early today because I could barely grip anything. A lesson in humility and ego is the enemy. At least I got to watch Train to Busan with Den :) 
+
+## 2016/9/10
+ * Skipped climbing today to facilitate rest. Fever is such a bitch. Insyncers went climbing in Rizal and I'm stuck here.
+ * Will come back 100%!!
