@@ -134,3 +134,16 @@ Get your 4 hardest boulders and rank them 1 - 4
 ## 2016/9/10
  * Skipped climbing today to facilitate rest. Fever is such a bitch. Insyncers went climbing in Rizal and I'm stuck here.
  * Will come back 100%!!
+
+## 2016/9/12 - 2016/9/17
+ * Denise learned to lead on Monday. Did extremely well! She has mindset for lead, not scared. Good at clipping.
+ * Tuesday to Thursday was lead training everyday. Friday rest. Saturday lead training.
+ * Sent new routes on autobelay for warmup. Lime green 6b+ is pretty powerful and rad while crimpy red 6c is good for practicing the feeling of flagging. Redpointed both.
+ * The new routes are harder than before, which is good as harder grading is always welcomed so when moving to other gyms/crags no unpleasant surprises.
+ * Finished all lead routes with Denise from 5 - 6a+. Den flashed Funda, roof 6a+.
+ 
+## 2016/9/18
+ * Outdoor day! Everyone was super stoked. Denise's first outdoor!
+ * Flashed Early Bird (5.7) on toprope and then lead. Flashed SMB (5.7) on toprope.
+ * Was not able to attempt as many routes as I wanted (traffic in crag) but that's OK. Main purpose was to get a feel of ourdoors again.
+ * Mental game outdoors needs work both for Denise and I. Hopefully this will get us ready for Cebu!
